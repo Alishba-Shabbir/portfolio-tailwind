@@ -1,7 +1,10 @@
 import React from "react";
 import Image from "next/image";
 import profileImage from "@/public/profileImage.jpg";
-import { FaFacebookF, FaGithub, FaLinkedinIn } from "react-icons/fa";
+import { FaFacebookF } from "react-icons/fa";
+import {  FaGithub} from "react-icons/fa";
+import { FaLinkedinIn } from "react-icons/fa";
+
 
 export default function Home() {
   return (
@@ -18,13 +21,13 @@ export default function Home() {
 
           <div className="mb-6">
             <p className="text-lg tracking-wide animate-pulse mb-2">
-              Hi! I'm <span className="font-bold text-orange-500">Alishba Shabbir</span>
+              Hi I am <span className="font-bold text-orange-500">Alishba Shabbir</span>
             </p>
             <h1 className="text-2xl sm:text-3xl lg:text-4xl text-orange-500 font-bold animate-bounce ">
               Web Developer
             </h1>
             <p className="mt-4 text-xs sm:text-sm lg:text-base">
-              "Highly skilled frontend web developer with expertise in HTML, CSS, TypeScript, and responsive web design. Proven track record of delivering high-performance, scalable web applications with a focus on user experience."
+              Highly skilled frontend web developer with expertise in HTML  CSS  TypeScript and responsive web design. Proven track record of delivering high-performance scalable web applications with a focus on user experience.
             </p>
           </div>
 

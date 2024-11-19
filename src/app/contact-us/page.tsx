@@ -1,10 +1,10 @@
-import {
-    FaFacebookF,
-    FaGithub,
-    FaLinkedinIn,
-    FaInstagram,
-    FaTiktok,
-  } from "react-icons/fa";
+
+  import { FaFacebookF } from "react-icons/fa";
+  import {  FaGithub} from "react-icons/fa";
+  import { FaLinkedinIn } from "react-icons/fa";
+  import { FaInstagram } from "react-icons/fa";
+import {  FaTiktok} from "react-icons/fa";
+
   
   export default function Contact() {
     return (
@@ -18,7 +18,7 @@ import {
             </h2>
             <h4 className="text-3xl font-semibold mb-5">If you have any project in your mind.</h4>
             <p className="text-lg text-gray-400 mb-10">
-              I'm a web Developer - creating bold & brave interface design for companies all over the world.
+              I am a web Developer - creating bold & brave interface design for companies all over the world.
             </p>
             
             {/* Contact Info */}

@@ -23,12 +23,12 @@ export default function About() {
             Web Developer!
           </h4>
           <p className="text-beige text-gray-300 md:text-lg font-serif leading-7 md:leading-8 mb-16">
-            "As a driven and detail-oriented front-end developer, I excel in crafting responsive,
-            scalable, and maintainable web applications. With a strong foundation in HTML, CSS, and 
-            Typescript, I deliver innovative solutions that combine functionality and aesthetics. I'm 
-            passionate about staying updated with industry trends and best practices, continuously enhancing 
-            my skills. Collaborative, curious, and creative, I thrive in dynamic environments, fostering meaningful 
-            connections and driving project success through dedication and expertise".
+            As a driven and detail-oriented front-end developer I excel in crafting responsive
+            scalable and maintainable web applications. With a strong foundation in HTML CSS and 
+            Typescript I deliver innovative solutions that combine functionality and aesthetics I am 
+            passionate about staying updated with industry trends and best practices continuously enhancing 
+            my skills. Collaborative curious and creative I thrive in dynamic environments fostering meaningful 
+            connections and driving project success through dedication and expertise.
           </p>
         </div>
       </section>
